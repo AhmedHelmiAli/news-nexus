@@ -9,7 +9,7 @@ export default function GoldPrice() {
 
   useEffect(() => {
     const myHeaders = new Headers();
-    myHeaders.append("x-access-token", "goldapi-ckr3slxv61cyg-io");
+    myHeaders.append("x-access-token", "goldapi-eoh10slxx7kh6y-io");
     myHeaders.append("Content-Type", "application/json");
     const requestOptions = {
       method: "GET",

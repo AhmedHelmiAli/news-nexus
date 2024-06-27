@@ -27,5 +27,5 @@ function App() {
 export default App;
 
 // newsApiKey 2e8a46212cb247a7b06bad0db11d616d
-// goldApiKey goldapi-ckr3slxv61cyg-io
+// goldApiKey goldapi-eoh10slxx7kh6y-io
 // currencyApiKey ac9a9b895ef8e5b84455e1bf
